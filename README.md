@@ -1,13 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- This is a simple introductory Ruby Rails project following the tutorial:
+https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one
+- I plan to continue working on this project to expand on back-end Rails skills.
 
-Things you may want to cover:
+* Ruby version: 3.1.2p20
 
-* Ruby version
-
-* System dependencies
+* System dependencies 
 
 * Configuration
 
